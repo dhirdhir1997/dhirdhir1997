@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amarnath Shinde</h1>
-<h3 align="center">Passionate about Robotics and Autonomous Systems</h3>
+<h3 align="center">Passionate about Robotics and Autonomous with Machine learning and Computer Vision acting as catalyst</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhirdhir1997&label=Profile%20views&color=0e75b6&style=flat" alt="dhirdhir1997" /> </p>
 
