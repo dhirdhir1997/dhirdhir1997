@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Amarnath Shinde</h1>
-<h3 align="center">Passionate about Robotics and Autonomous systems with Machine learning and Computer Vision acting as catalyst</h3>
+<h3 align="center">Passionate about developing smart solutions using Machine learning algorithms</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhirdhir1997&label=Profile%20views&color=0e75b6&style=flat" alt="dhirdhir1997" /> </p>
 
-- 🌱 I’m currently learning **Robotic Arm's Motion Planning , Path Planning and Perception in Autonmous Systems, various Machine Learning and Computer Vision algorithms**
+- 🌱 I’m currently learning ** LLMs , RAGs , GenAI , NLP**
 
 - 📫 You can reach me on **avshinde@ncsu.edu**
 
