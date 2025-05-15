@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **LLMs , RAGs , GenAI , NLP**
 
-- 📫 You can reach me on **avshinde@ncsu.edu**
+- 📫 You can reach me on **shindeamarnath571@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
