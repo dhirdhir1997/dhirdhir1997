@@ -1,29 +1,33 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Amarnath%20Shinde&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%2F%20ML%20Software%20Engineer%20%7C%20Agentic%20AI%20Builder&descSize=18&descAlignY=58)
+# Hi, I'm Amarnath Shinde 👋
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=700&lines=Building+Smart+Solutions+with+Machine+Learning;Crafting+Agentic+AI+Products+%F0%9F%A4%96;Exploring+LLMs%2C+RAG%2C+GenAI+%26+NLP;Open+to+AI%2FML+Engineer+Opportunities+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
+### 🚀 Software Engineer | Building with Agentic AI & ML
+
+*Hands-on with LLMs • RAG • GenAI • NLP — Open to AI/ML Engineer roles*
 
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=dhirdhir1997&label=Profile+Views&color=00d4ff&style=for-the-badge" alt="profile views"/>
-<img src="https://img.shields.io/badge/Focus-Agentic_AI-7c3aed?style=for-the-badge&logo=openai&logoColor=white" alt="focus"/>
+<img src="https://img.shields.io/badge/Role-Software_Engineer-3b82f6?style=for-the-badge&logo=github&logoColor=white" alt="role"/>
+<img src="https://img.shields.io/badge/Focus-Agentic_AI_%26_ML-7c3aed?style=for-the-badge&logo=openai&logoColor=white" alt="focus"/>
 <img src="https://img.shields.io/badge/Status-Open_to_Work-22c55e?style=for-the-badge&logo=github&logoColor=white" alt="status"/>
 
 </div>
 
 ---
 
-## 🚨 Currently Open to Opportunities
+## 🚨 Open to AI / ML Engineer Roles
 
-> ### 💼 **Actively seeking AI / ML Software Engineer roles**
+> ### 💼 **Software Engineer transitioning into AI/ML — and shipping projects to prove it.**
 >
-> I'm a hands-on engineer building real-world products with **Agentic AI tools**, **LLMs**, and modern ML pipelines. If your team is shipping intelligent software and looking for someone who can move fast from prototype to production, **let's talk**.
+> I'm currently a **Software Engineer** with strong fundamentals in software design, system building, and clean code. To make a focused move into AI/ML, I'm actively building hands-on projects using **agentic AI tools** and **machine learning** — not just taking courses, but writing real code, breaking things, and learning what production AI actually looks like.
 >
-> 📧 **Reach me directly:** [shindeamarnath18@gmail.com](mailto:shindeamarnath18@gmail.com)
+> If your team is hiring AI/ML engineers and values **engineering rigor + a fast learner who ships**, I'd love to connect.
+>
+> 📧 **Email:** [shindeamarnath18@gmail.com](mailto:shindeamarnath18@gmail.com)
 > 💼 **LinkedIn:** [linkedin.com/in/amarnath-shinde](https://linkedin.com/in/amarnath-shinde)
+> 🌍 **Open to:** Remote • Hybrid • Relocation
 
 ---
 
@@ -32,32 +36,52 @@
 ```python
 class AmarnathShinde:
     def __init__(self):
-        self.role         = "AI / ML Software Engineer"
-        self.currently    = "Building products with Agentic AI tools"
-        self.learning     = ["LLMs", "RAG", "GenAI", "NLP"]
-        self.passion      = "Smart software solutions powered by ML"
-        self.open_to_work = True
+        self.current_role  = "Software Engineer"
+        self.transitioning_to = "AI / ML Engineer"
+        self.building      = "Software projects powered by Agentic AI & ML"
+        self.learning      = ["LLMs", "RAG", "GenAI", "NLP", "Agentic Workflows"]
+        self.strengths     = ["Software engineering", "Problem solving", "Fast iteration"]
+        self.open_to_work  = True
 
-    def say_hi(self):
-        print("Thanks for stopping by — let's build something intelligent together!")
-
-me = AmarnathShinde()
-me.say_hi()
+    def why_hire_me(self):
+        return [
+            "Solid software engineering foundation — I write code that ships",
+            "Actively building real AI/ML projects, not just reading papers",
+            "Comfortable owning a feature end-to-end: design → code → deploy",
+            "Fast learner who's serious about going deep on AI",
+        ]
 ```
 
-- 🤖 Currently building **Agentic AI products** end-to-end
-- 🌱 Deep-diving into **LLMs, RAG pipelines, GenAI, and NLP**
-- 🧠 Passionate about turning ML research into production software
-- 📫 Best way to reach me: **shindeamarnath18@gmail.com**
+- 💻 **Day job:** Software Engineer — building, shipping, debugging real systems
+- 🤖 **After hours:** Building hands-on projects with **agentic AI** and **ML** to deepen my AI/ML skills
+- 🌱 **Currently learning:** LLMs, RAG, GenAI, NLP, multi-agent systems
+- 🎯 **Goal:** Bring my software engineering rigor into a focused AI/ML role
+- 🤝 I believe the best AI engineers are great software engineers first — and I already have that base
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### 🧠 AI / ML / Data
+### 💻 Software Engineering Foundation
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### 🤖 Agentic AI & LLMs (actively building with)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-4B32C3?style=for-the-badge&logo=meta&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+### 🧠 ML & Data
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -65,25 +89,16 @@ me.say_hi()
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-### 🤖 Generative & Agentic AI
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-4B32C3?style=for-the-badge&logo=meta&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![RAG](https://img.shields.io/badge/RAG_Systems-7c3aed?style=for-the-badge&logo=databricks&logoColor=white)
+### 🗄️ Vector DBs & RAG Tooling
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logo=databricks&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
 
-### 💻 Languages & Systems
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-
-### 🧰 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+### 🧰 Tools
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 
 </div>
 
@@ -102,24 +117,23 @@ me.say_hi()
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhirdhir1997&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=7c3aed&fire=00d4ff&currStreakLabel=00d4ff" alt="GitHub Streak" />
 
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=dhirdhir1997&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies"/>
-
 </div>
 
 ---
 
-## 🎯 What I'm Building Right Now
+## 🎯 What I'm Focused On Right Now
 
-🤖 **Agentic AI Products** — Designing autonomous agents that plan, reason, and use tools
-🔍 **RAG Pipelines** — Retrieval-augmented systems over private knowledge bases
-🧠 **LLM Applications** — Production-grade apps wrapping foundation models
-📚 **NLP Workflows** — From classic pipelines to modern transformer architectures
+- 🤖 **Building agentic AI projects** — multi-step agents that use tools and complete real tasks
+- 📚 **Going deep on RAG** — chunking, embeddings, hybrid search, evaluation
+- 🧠 **Strengthening ML fundamentals** — applied PyTorch, sklearn pipelines, model evaluation
+- 📦 **Production thinking** — APIs, Docker, observability, latency, cost
+- 🎓 **Learning out loud** — every project gets a README explaining what I built and what I learned
 
 ---
 
 ## 🤝 Let's Connect
+
+Whether you're hiring for AI/ML roles, building agentic AI products, or just want to chat about what's possible with LLMs — I'd love to hear from you.
 
 <div align="center">
 
@@ -135,12 +149,18 @@ me.say_hi()
 
 <br/><br/>
 
-### 💬 *"The best way to predict the future is to build it — with intelligent systems."*
+### 💬 *"Great AI engineers are great software engineers first — and I'm building from that base."*
 
 </div>
 
 <br/>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer)
+<br/>
 
+---
 
+<div align="center">
+
+⭐ *Thanks for visiting — let's build something intelligent together.* ⭐
+
+</div>
